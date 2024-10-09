@@ -68,11 +68,11 @@ This section highlights important demographic metrics of the applicants:
 - **High School / Some College (51.98%)**
 - **BIPOC+ (37.23%)**
 
-![image](https://github.com/user-attachments/assets/34983785-7089-4b50-9918-bdde3e1a2a55)
-
 ### 4. Final Dashboard
 - Combined all visualizations into a comprehensive dashboard in Power BI.
 - **Purpose**: Provide an overview of employment, income, education, and diversity trends for applicants to the Tech Moms program.
+
+![image](https://github.com/user-attachments/assets/34983785-7089-4b50-9918-bdde3e1a2a55)
 
 ## Tools Used
 - **Power BI**: Used for data preparation, analysis, and visualization.
